@@ -1,0 +1,37 @@
+html {
+    height: 100%;
+    width: 100%;
+    background-color: #303d8a;
+}
+@font-face {
+    font-family: 'five-nights-at-freddys';
+    src: url('five-nights-at-freddys-webfont.woff2');
+}
+div {
+    border-block: solid #639bff 8px;
+    background-color: #5b6ee1;
+    padding: 10px;
+    inline-size: 1000px;
+}
+normal {
+    font-size: 40px;
+    font-family: five-nights-at-freddys;
+    color: white;
+}
+small {
+    font-size: 30px;
+    font-family: five-nights-at-freddys;
+    color: white;
+}
+big {
+    font-size: 70px;
+    font-family: five-nights-at-freddys;
+    color:white;
+}
+boldbig {
+    font-size: 70px;
+    font-family: Comic Sans MS;
+    color: white;
+    font-weight: bold;
+}
+h1.dashed {border-style: dashed;}
